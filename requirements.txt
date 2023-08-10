@@ -1,0 +1,15 @@
+gradio==3.26.0
+hupper==1.11
+langchain
+openai==0.27.2
+python-dotenv==1.0.0
+google-api-python-client==2.86.0
+atlassian-python-api
+chromadb
+beautifulsoup4
+lxml
+pytesseract
+Pillow
+tiktoken
+jq
+tqdm
